@@ -32,5 +32,4 @@ const NextLink: types.RenderLocalLink = ({
     </Link>
   )
 }
-
 export default NextLink
